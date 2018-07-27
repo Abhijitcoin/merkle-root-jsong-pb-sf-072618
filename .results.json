@@ -1,1 +1,1 @@
-{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:HelperTest", "name": "test_merkle_root", "time": 0.0003447532653808594, "type": "success"}]}
+{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:HelperTest", "name": "test_merkle_root", "time": 0.000247955322265625, "type": "success"}]}
